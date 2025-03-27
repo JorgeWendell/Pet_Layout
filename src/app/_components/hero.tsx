@@ -31,7 +31,7 @@ export function Hero() {
                         Seu pet merece cuidado, carinho e atenção especial.
                     </h1>
                     <p className="lg:text-lg" data-aos="fade-up">
-                        Oferecemos os melhores serviços para garantir o bem-estar e a fecidade do seiu amigo de quatro patas.
+                        Oferecemos os melhores serviços para garantir o bem-estar e a felicidade do seu amigo de quatro patas.
                     </p>
                     
                         <a target="_blank" href="#" className="bg-green-500 px-5 py-2 rounded-md font-semibold flex items-center justify-center w-fit gap-2">
