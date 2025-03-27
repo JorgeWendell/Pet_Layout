@@ -58,7 +58,7 @@ export default function About() {
                     className="bg-green-500 text-white flex items-center justify-center w-fit gap-4 px-4 py-2 rounded-md"
                     >
                         <WhatsappLogo className="w-5 h-5 text-white" />
-                        Contato via WhatApp
+                        Contato via WhatsApp
                     </a>
                     <a href=""
                     className=" flex items-center justify-center w-fit gap-4 px-4 py-2 rounded-md"
